@@ -18,4 +18,12 @@ Este documento presenta una reinterpretación moderna del clásico trebuchet, ad
 ## El Proyecto
 Este proyecto busca revivir la ingeniería medieval a través de la construcción de un trebuchet de 20 metros. Nuestra motivación es explorar los principios físicos detrás de esta máquina de guerra y compartir nuestro aprendizaje con la comunidad.
 
+## Instrucciones Operacionales
+**Preparación del proyectil:** Coloca el proyectil deseado en la bolsa de cuero que se encuentra en el extremo del brazo del trebuchet. Asegúrate de que el proyectil esté bien sujeto y no pueda caerse.
+
+**Carga del trebuchet:** Tira de la cuerda de tracción hacia atrás hasta que el brazo del trebuchet esté en su posición más alta. Asegúrate de que la cuerda esté bien sujeta al mecanismo de liberación.
+
+**Liberación del proyectil:** Suelta la cuerda de tracción de forma rápida y controlada. El brazo del trebuchet se moverá hacia adelante, lanzando el proyectil a gran distancia.
+
+**Recarga y repetición:** Una vez que el proyectil haya aterrizado, puedes volver a cargar el trebuchet y repetir el proceso.
 
