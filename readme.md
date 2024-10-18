@@ -8,4 +8,8 @@
 
 
 
+1. Presentación.
+2. El Proyecto.
+3. Instalación.
+4. Instrucciones Operacionales y Agradecimientos. 
 
