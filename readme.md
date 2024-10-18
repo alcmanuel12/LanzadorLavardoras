@@ -4,4 +4,8 @@
 
 ### Desde lavadoras hasta motocicletas, ¡nada se salva de nuestro alcance
 
+1. Presentación.
+2. El Proyecto.
+3. Instalación.
+4. Instrucciones Operacionales y Agradecimientos. 
 
