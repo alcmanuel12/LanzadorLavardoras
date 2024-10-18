@@ -4,12 +4,12 @@
 
 ### Desde lavadoras hasta motocicletas, ¡nada se salva de nuestro alcance!
 
-
-
-
-
 1. Presentación.
 2. El Proyecto.
 3. Instalación.
 4. Instrucciones Operacionales y Agradecimientos. 
 
+## Presentación El Lanzador de Lavadoras inspirado en el Trebuchet Medieval
+El trebuchet fue una de las armas más imponentes y eficaces de la Edad Media, utilizado para lanzar enormes proyectiles contra las fortificaciones enemigas. Esta impresionante máquina de guerra funcionaba aprovechando principios de física básica, como la palanca y la gravedad, para maximizar la energía de lanzamiento. Aunque hoy en día no hay castillos que asediar, la fascinación por estas poderosas máquinas sigue vigente.
+
+Este documento presenta una reinterpretación moderna del clásico trebuchet, adaptado para un propósito sorprendente: el lanzamiento de lavadoras. Este proyecto no solo es una obra de ingeniería creativa, sino también un experimento divertido que pone a prueba los límites de las leyes de la física en un contexto no convencional.
