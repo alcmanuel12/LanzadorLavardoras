@@ -25,4 +25,12 @@ Este proyecto busca revivir la ingeniería medieval a través de la construcció
 2. **El brazo lanzador** se instala en el punto de pivote de la estructura, equilibrando el lado más corto para el contrapeso y el más largo para lanzar la lavadora. **El contrapeso**, que proporciona la fuerza de lanzamiento, se coloca en el extremo corto del brazo, y su peso puede ajustarse para variar la potencia del lanzamiento. Posteriormente, **se instala una cuerda o cable que controla el mecanismo de disparo**.
 
 3. Finalmente, ~~se realizan verificaciones de seguridad~~, comprobando la estabilidad de la estructura, el movimiento libre del brazo y la seguridad de las fijaciones. Una vez superadas estas pruebas, se puede proceder con pruebas iniciales usando objetos más ligeros, ajustando los elementos según sea necesario antes del primer lanzamiento oficial.
+## Instrucciones Operacionales
+**Preparación del proyectil:** Coloca el proyectil deseado en la bolsa de cuero que se encuentra en el extremo del brazo del trebuchet. Asegúrate de que el proyectil esté bien sujeto y no pueda caerse.
+
+**Carga del trebuchet:** Tira de la cuerda de tracción hacia atrás hasta que el brazo del trebuchet esté en su posición más alta. Asegúrate de que la cuerda esté bien sujeta al mecanismo de liberación.
+
+**Liberación del proyectil:** Suelta la cuerda de tracción de forma rápida y controlada. El brazo del trebuchet se moverá hacia adelante, lanzando el proyectil a gran distancia.
+
+**Recarga y repetición:** Una vez que el proyectil haya aterrizado, puedes volver a cargar el trebuchet y repetir el proceso.
 
