@@ -13,3 +13,9 @@
 3. Instalación.
 4. Instrucciones Operacionales y Agradecimientos. 
 
+
+
+## El Proyecto
+Este proyecto busca revivir la ingeniería medieval a través de la construcción de un trebuchet de 20 metros. Nuestra motivación es explorar los principios físicos detrás de esta máquina de guerra y compartir nuestro aprendizaje con la comunidad.
+
+
